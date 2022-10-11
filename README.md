@@ -8,7 +8,7 @@ This was Lab 2: [Scrabble](https://cs50.harvard.edu/college/2020/fall/labs/2/)
 ## Lab 2: Scrabble
 
 ### Background
-n the game of [Scrabble](https://scrabble.hasbro.com/en-us/rules), players create words to score points, and the number of points is the sum of the point values of each letter in the word.
+In the game of [Scrabble](https://scrabble.hasbro.com/en-us/rules), players create words to score points, and the number of points is the sum of the point values of each letter in the word.
 For example, if we wanted to score the word Code, we would note that in general Scrabble rules, the C is worth 3 points, the o is worth 1 point, the d is worth 2 points, and the e is worth 1 point. Summing these, we get that Code is worth 3 + 1 + 2 + 1 = 7 points.
 
 ### Implementation Details
